@@ -36,10 +36,11 @@
         android:id="@+id/labels"
         android:layout_width="match_parent"
         android:layout_height="89dp"
-        android:layout_alignParentBottom="true"
         android:layout_below="@+id/back_button"
+        android:layout_alignParentBottom="true"
         android:layout_gravity="center"
-        android:layout_marginBottom="44dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginBottom="8dp"
         android:orientation="vertical">
 
         <LinearLayout
@@ -54,7 +55,7 @@
                 android:layout_width="240dp"
                 android:layout_height="wrap_content"
                 android:text="Label"
-                android:textSize="20sp"
+                android:textSize="15sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -62,7 +63,7 @@
                 android:layout_width="110dp"
                 android:layout_height="wrap_content"
                 android:text="Confidence"
-                android:textSize="20sp"
+                android:textSize="15sp"
                 android:textStyle="bold" />
 
         </LinearLayout>
@@ -136,7 +137,6 @@
 
         </LinearLayout>
     </LinearLayout>
-
 
 
 </RelativeLayout>
