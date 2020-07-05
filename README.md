@@ -3,20 +3,28 @@
 
 ## Short Description
 A deep learning model is build to detect malaria of the patients with the cell images of the patients.
+<br>
 
 # Dataset:
 Dataset Link:- <a href="https://ceb.nlm.nih.gov/repositories/malaria-datasets/">https://ceb.nlm.nih.gov/repositories/malaria-datasets/ </a>
+<br>
 
 ### 👉 If you like this repo then please give it a ⭐️
+<br>
 
 ## NOTE:
 This project is subject to change by the developer and is still in development
+<br>
 
 ## Screenshots
 <img src="Screenshots/1.png" />
 <img src="Screenshots/2.png" />
-
-
+<img src="Screenshots/3.png" />
+<img src="Screenshots/4.png" />
+<img src="Screenshots/5.png" />
+<br>
+<br>
+<br>
 ## To test this out
 Testing this is as simple as it gets. Follow this steps:
 1. Clone this project.
@@ -43,7 +51,7 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 <br>
 <br>
 
-<img src="Sayan_Nath_ML&FLUTTER copy.NEF" />
+<img src="owner.png" />
 <br>
 <br>
 
