@@ -23,8 +23,7 @@ This project is subject to change by the developer and is still in development
 <img src="Screenshots/4.png" />
 <img src="Screenshots/5.png" />
 <br>
-<br>
-<br>
+
 ## To test this out
 Testing this is as simple as it gets. Follow this steps:
 1. Clone this project.
@@ -50,14 +49,6 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 ## Developed & Maintained by
 <br>
 
-[👨 Sayan Nath](https://sayan-nath.web.app/)
-
-
-[📷 Insta](https://www.instagram.com/sayannath235/)
-
-[🐤 Twitter](https://twitter.com/SayanNa20204009)
-
-[🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
+[👨 Sayan Nath](https://sayan-nath.web.app/) [📷 Insta](https://www.instagram.com/sayannath235/) [🐤 Twitter](https://twitter.com/SayanNa20204009) [🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
 <br>
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
