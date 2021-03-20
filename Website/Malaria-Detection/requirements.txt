@@ -35,7 +35,7 @@ imageio==2.6.1
 imutils==0.5.3
 isort==4.3.21
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 Keras==2.3.1
 Keras-Applications==1.0.8
