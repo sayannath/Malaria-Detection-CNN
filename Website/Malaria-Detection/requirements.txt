@@ -191,7 +191,7 @@ six==1.14.0
 sklearn==0.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
-spotipy==2.9.0
+spotipy==2.22.1
 stasm==2.0.2
 tensorboard==2.1.1
 tensorflow==2.7.2
